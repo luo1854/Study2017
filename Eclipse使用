@@ -2,12 +2,13 @@
 eclipse自动生成getter,setter方法的快捷键是shitf+alt+s
 输入 syso 或者 sysout 后，按alt + /, 则会替换显示为System.out.println();
 全局 快速定位到错误位置 ctrl+.
-全局 快速修正 Ctrl1+1 
+全局 快速修正 Ctrl+1 
 全局 内容辅助 Alt+/ 
 F3: 打开申明（Open declaration）
 Control-Q: 回到最后一次编辑的地方
 ctrl + t 快速查看当前类的类继承关系
 ctrl + d 快速删除当前行
+ctrl + alt + 向下按键 快速复制当前行
 ctrl+alt+U 复制当前行  自定义快捷键Window->Preference->General->Key
 shift + enter在当前行之下创建一个空白行 
 
