@@ -15,6 +15,7 @@ shift + enter在当前行之下创建一个空白行
 Ctrl + Q: 回到最后一次编辑的地方
 alt + 左箭头 eclipse 返回上一步代码处(倒退)
 alt + 右箭头 eclipse 回到之前一步代码处(前进)
+ctrl+shift+f 表示格式化代码
 
 
 Eclipse快捷键 10个最有用的快捷键
