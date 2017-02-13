@@ -11,11 +11,14 @@ ctrl + d 快速删除当前行
 ctrl + alt + 向下按键 快速复制当前行
 ctrl+alt+U 复制当前行  自定义快捷键Window->Preference->General->Key
 shift + enter在当前行之下创建一个空白行 
-
 Ctrl + Q: 回到最后一次编辑的地方
 alt + 左箭头 eclipse 返回上一步代码处(倒退)
 alt + 右箭头 eclipse 回到之前一步代码处(前进)
 ctrl+shift+f 表示格式化代码
+
+ctrl+shift+ G 查看类在项目中的引用
+ctrl+alt+ H 查看方法在项目中的引用
+学会用outline窗口
 
 
 Eclipse快捷键 10个最有用的快捷键
